@@ -10,8 +10,10 @@ body {
 .primeiroArticle{
   
     background-color: aquamarine;
-text-align: center;
-
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em; 
+    border-radius: 10px;
 }
 
 .primeiroLink{
@@ -20,18 +22,27 @@ text-align: center;
 .segundoArticle{ 
     
     background-color: aquamarine;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em; 
+    border-radius: 10px;
 }
 
 .terceiroArticle{
     
     background-color: aquamarine;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em; 
+    border-radius: 10px;
 }
 .quartoArticle{
     
     background-color: aquamarine;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em; 
+    border-radius: 10px;
 }
 
 h1 {
@@ -69,6 +80,12 @@ fieldset{
 button {
     border-radius: 15px;
     background-origin: padding-box;
+    color: black;
+}
+.links  {a
+    border-color: white;
+    border-radius: 50px;
+
 }
 
 
